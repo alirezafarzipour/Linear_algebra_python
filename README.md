@@ -1,4 +1,4 @@
-# Linear_algebra_python
+# Linear algebra in python
 Number of operations and problems in Linear Algebra and Numerical Linear Algebra 
 ## List of items
 #### 01. Matrix operations:
